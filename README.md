@@ -5,7 +5,8 @@ Inspired by two projects:
   * [Minimalist Web Notepad API][2]
 
 
-Comparing to the original [Minimalist Web Notepad][1], the current version supports rest API (credit to [Minimalist Web Notepad API][2] ) and it changes some CSS settings
+Comparing to the original [Minimalist Web Notepad][1], the current version supports rest API (credit to [Minimalist Web Notepad API][2] ) and it changes some CSS settings.
+
 Demo: [webnotepad][3]
 
 ## Install
