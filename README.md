@@ -26,4 +26,4 @@ If you install it on baota panel with Nginx, please add the following to pseudo 
 
 [1]: https://github.com/pereorga/minimalist-web-notepad
 [2]: https://github.com/Xiaobin2333/Minimalist-Web-Notepad-API
-[3]: https://github.com/xtqzcm/webnotepad
+[3]: https://n.xtqzcm.com
